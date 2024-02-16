@@ -1,1 +1,3 @@
-S
+Somos un grupo que los integrantes son Sergio Alcivar, Miguelangel Mendez y Santiago Cabo
+Te vamos a hacer una recomendaciones de Anime, Juegos y Musica.
+LINK: https://github.com/Cucurin/RecomendacionesGuapas.git
